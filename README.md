@@ -20,9 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![image](https://github.com/user-attachments/assets/fe46e497-4c1c-4605-8898-c4dc13bdca74)  ![image](https://github.com/user-attachments/assets/d3892be9-ca0b-4b0d-8e17-0c7b6303c81f)
-
-![image](https://github.com/user-attachments/assets/911ee065-136c-48c5-9f48-f6d1b8a060a9)  ![image](https://github.com/user-attachments/assets/99df397c-b654-4c76-833f-3eea81fa5e03)
+![image](https://github.com/user-attachments/assets/fe46e497-4c1c-4605-8898-c4dc13bdca74)          ![image](https://github.com/user-attachments/assets/d3892be9-ca0b-4b0d-8e17-0c7b6303c81f)           ![image](https://github.com/user-attachments/assets/911ee065-136c-48c5-9f48-f6d1b8a060a9)         ![image](https://github.com/user-attachments/assets/99df397c-b654-4c76-833f-3eea81fa5e03)
 
 
 
